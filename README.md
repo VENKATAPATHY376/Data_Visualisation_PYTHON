@@ -47,14 +47,13 @@ The goal of this notebook is to:
 ## 📂 Project Structure
 
 Netflix_Data_Visualization/
-│
 ├── netflix_titles.csv # Dataset file
 ├── netflix_visualization.ipynb # Main Colab/Jupyter notebook
 ├── README.md # Project documentation
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Option 1: Run on **Google Colab**
 1. Upload `netflix_visualization.ipynb` and `netflix_titles.csv` to Colab.
